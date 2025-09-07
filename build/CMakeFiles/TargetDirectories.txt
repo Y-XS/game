@@ -1,0 +1,3 @@
+D:/code/workspace/game-test/build/CMakeFiles/main.dir
+D:/code/workspace/game-test/build/CMakeFiles/edit_cache.dir
+D:/code/workspace/game-test/build/CMakeFiles/rebuild_cache.dir

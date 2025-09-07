@@ -1,0 +1,7 @@
+# ninja log v7
+3	347	7789243084363052	CMakeFiles/main.dir/src/main.cc.obj	d5fb483381617d5c
+3	191	7789244041423916	build.ninja	443e2959dbafd156
+3	191	7789244041411586	D:/code/workspace/game-test/build/cmake_install.cmake	443e2959dbafd156
+347	471	7789243087874605	D:/code/workspace/game-test/bin/main.exe	21b4a61f78b60603
+4	364	7789244041641747	CMakeFiles/main.dir/src/main.cc.obj	d5fb483381617d5c
+364	490	7789244045389999	D:/code/workspace/game-test/bin/main.exe	21b4a61f78b60603
